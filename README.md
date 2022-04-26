@@ -11,6 +11,8 @@
 
 - 📝 I regularly write on Twitter A LOT (but I won't give away my @ haha!)
 
+- 💬 I speak native Spanish, and English **C1**
+
 - 📫 How to reach me **anaascua5@yahoo.com.ar**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anaascua/](https://www.linkedin.com/in/anaascua/)
