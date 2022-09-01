@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at **Universidad Tecnológica Nacional (UTN)**
 
-- 🌱 I’m currently learning **Python, Java, HTML5, CSS, PHP, MySQL, Bootstrap 5**
+- 🌱 I’m currently learning **Python, Java, Pandas, R**
 
 - 👯 I’m working on new FrontEnd projects **HTML5, CSS, PHP, MySQL, XAMPP**
 
