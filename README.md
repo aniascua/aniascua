@@ -14,7 +14,7 @@
 
 - 🍎 EF SET English Certificate 67/100 (C1 Advanced) [https://www.efset.org/cert/aGe4aH](https://www.efset.org/cert/aGe4aH)
 
-- 📝 I regularly write on Twitter A LOT (but I won't give away my @ haha!)
+- 📝 I regularly write on Twitter A LOT (but I won't give away my @ haha)
 
 - 💬 I speak native Spanish, and English C1
 
