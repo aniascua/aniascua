@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anaascua/](https://www.linkedin.com/in/anaascua/)
 
-- ⚡ Fun fact **I'm a geek, passionate about food and horror movies**
+- ⚡ I'm a geek, passionate about food and horror movies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
