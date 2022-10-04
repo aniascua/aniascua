@@ -4,11 +4,9 @@
 <h3 align="center">A passionate tech lover from Argentina</h3>
 
 
-- 🔭 I’m currently studying at **Universidad Tecnológica Nacional (UTN)**
+- 💻 I’m currently studying at **Universidad Tecnológica Nacional (UTN)**
 
 - 🌱 I’m currently learning **Python, Java, R**
-
-- 👯 I’m working on new projects **HTML5, CSS, JavaScript, PHP, MySQL, XAMPP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniascua](https://github.com/aniascua)
 
