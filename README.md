@@ -14,7 +14,7 @@
 
 - 💬 I speak native Spanish and English
 
-- 📫 How to reach me **anaascua5@yahoo.com.ar**
+- 📫 Contact me: **anaascua5@yahoo.com.ar**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anaascua/](https://www.linkedin.com/in/anaascua/)
 
