@@ -2,13 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Ana Ascua</h1>
 <p align="center">A passionate tech lover from Argentina</p>
+https://aniascua.github.io/
 
 
 - 💻 I’m currently studying at **Universidad Tecnológica Nacional (UTN) - Tecnicatura Universitaria en Programación**
 
-- 🌱 I’m currently learning **Python, Java, R**
+- 🌱 I’m currently learning **Python, Java, R, MongoDB, Web Hosting**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aniascua](https://github.com/aniascua)
+- 👨‍💻 All of my projects are available at https://github.com/aniascua?tab=repositories
 
 - 🍎 EF SET English Certificate 67/100 (C1 Advanced) [https://www.efset.org/cert/aGe4aH](https://www.efset.org/cert/aGe4aH)
 
