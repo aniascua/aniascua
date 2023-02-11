@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ana Ascua</h1>
 <p align="center">A passionate tech lover from Argentina</p>
-https://aniascua.github.io/
+https://ana-ascua-portfolio.000webhostapp.com/
 
 
 - 💻 I’m currently studying at **Universidad Tecnológica Nacional (UTN) - Tecnicatura Universitaria en Programación**
