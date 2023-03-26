@@ -7,7 +7,7 @@ https://ana-ascua-portfolio.000webhostapp.com/
 
 - 💻 I’m currently studying at **Universidad Tecnológica Nacional (UTN) - Tecnicatura Universitaria en Programación**
 
-- 🌱 I’m currently learning **Python, Java, R, MongoDB, Web Hosting**
+- 🌱 I’m currently learning **Python, Angular, Web Hosting**
 
 - 👨‍💻 All of my projects are available at https://github.com/aniascua?tab=repositories
 
