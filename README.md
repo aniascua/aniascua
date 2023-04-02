@@ -9,6 +9,8 @@ https://ana-ascua-portfolio.000webhostapp.com/
 
 - 🌱 I’m currently learning **Python, Angular, Web Hosting**
 
+- I'm also a student in **ONE - Oracle Next Education** and **Codo a Codo 4.0 - Big Data** 
+
 - 👨‍💻 All of my projects are available at https://github.com/aniascua?tab=repositories
 
 - 🍎 EF SET English Certificate 67/100 (C1 Advanced) [https://www.efset.org/cert/aGe4aH](https://www.efset.org/cert/aGe4aH)
