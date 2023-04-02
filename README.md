@@ -33,3 +33,4 @@ https://ana-ascua-portfolio.000webhostapp.com/
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="40" height="40"/>
