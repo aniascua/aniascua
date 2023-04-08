@@ -36,3 +36,5 @@ https://ana-ascua-portfolio.000webhostapp.com/
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
 <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="40" height="40"/>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="oracle-virtual-box" width="40" height="40"/>
+<a href="https://www.microsoft.com/es-es/software-download/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-11.png" alt="windows10-11" width="40" height="40"/>  
