@@ -38,3 +38,4 @@ https://ana-ascua-portfolio.000webhostapp.com/
 <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" alt="phpmyadmin" width="40" height="40"/>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="oracle-virtual-box" width="40" height="40"/>
 <a href="https://www.microsoft.com/es-es/software-download/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2016/03/Windows-10-logo-11.png" alt="windows10-11" width="40" height="40"/>  
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu-linux" width="40" height="40"/>  
