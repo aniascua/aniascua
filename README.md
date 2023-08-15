@@ -1,15 +1,15 @@
 [![MasterHead](https://i.ibb.co/GxbWhN1/1.png)](https://aniascua.github.io/formulario-PHP/)
 
-<h1 align="center">Hi 👋, I'm Ana Ascua</h1>
+<h1 align="center">Hi 👋, I'm Ana</h1>
 <p align="center">A passionate tech lover from Argentina</p>
-https://ana-ascua-portfolio.000webhostapp.com/
+<p align="center">https://ana-ascua-portfolio.000webhostapp.com/</p>
 
 
 - 💻 I’m currently studying at **Universidad Tecnológica Nacional (UTN) - Tecnicatura Universitaria en Programación**
 
-- 🌱 I’m currently learning **Python, Angular, Web Hosting**
+- 🎓 Just 5 subjects away from my University Technician in Programming degree (2023).
 
-- I'm also a student in **ONE - Oracle Next Education** and **Codo a Codo 4.0 - Big Data** 
+- 🌱 Besides my university studies, I also learn on my own and grow personally
 
 - 👨‍💻 All of my projects are available at https://github.com/aniascua?tab=repositories
 
