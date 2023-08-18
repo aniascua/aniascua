@@ -50,10 +50,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-desktop" width="55" height="55"/>
 </a>
 <a href="https://www.000webhost.com/" target="_blank" rel="noreferrer">
-          <img src="https://ar.000webhost.com/static/default.000webhost.com/images/logo/400x400-red.png" alt="000webhost" width="65" height="65"/>
+          <img src="https://ar.000webhost.com/static/default.000webhost.com/images/logo/400x400-red.png" alt="000webhost" width="55" height="55"/>
         </a>
 <a href="http://pseint.sourceforge.net/" target="_blank" rel="noreferrer">
-          <img src="https://pseint.sourceforge.net/logo-header.png" alt="pseint" width="55" height="55"/>
+          <img src="https://pseint.sourceforge.net/logo-header.png" alt="pseint" width="60" height="60"/>
         </a>        
         <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank" rel="noreferrer">
           <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png" alt="devc++" width="55" height="55"/>
@@ -79,6 +79,6 @@
         <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="55" height="55"/>
         </a>
-        <a href="https://images.ctfassets.net/yzco4xsimv0y/4ktvkEPJ0SChqP69iZB4xR/85f99299f450eef01ef9f9ae50cceabc/Untitled_design.png?w=300&q=70" target="_blank" rel="noreferrer">
+        <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
           <img src="https://images.ctfassets.net/yzco4xsimv0y/4ktvkEPJ0SChqP69iZB4xR/85f99299f450eef01ef9f9ae50cceabc/Untitled_design.png?w=300&q=70" alt="canva" width="55" height="55"/>
         </a>
