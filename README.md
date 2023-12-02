@@ -4,26 +4,20 @@
 <p align="center">A passionate tech lover from Argentina</p>
 <p align="center">https://ana-ascua-portfolio.000webhostapp.com/</p>
 
+- 🎓 **Técnica Universitaria en Programación UTN**. +3 years of continuous university studies completed
 
-- 💻 I’m currently studying at **Universidad Tecnológica Nacional (UTN) - Tecnicatura Universitaria en Programación**
+- 💻 Technology enthusiast and programming geek
+  
+- 📄 Get to know about my experiences: [https://www.linkedin.com/in/anaascua/](https://www.linkedin.com/in/anaascua/)
 
-- 🎓 Just 5 subjects away from my University Technician in Programming degree (2023).
+- 🍎 EF SET English Certificate 67/100 (C1 Advanced): [https://www.efset.org/cert/aGe4aH](https://www.efset.org/cert/aGe4aH)
+
+- ⚡ I'm passionate about cuisine and comedy movies
 
 - 🌱 Besides my university studies, I also learn on my own and grow personally
 
-- 👨‍💻 All of my projects are available at https://github.com/aniascua?tab=repositories
 
-- 🍎 EF SET English Certificate 67/100 (C1 Advanced) [https://www.efset.org/cert/aGe4aH](https://www.efset.org/cert/aGe4aH)
-
-- 💬 I speak native Spanish and English
-
-- 📫 Contact me: **anaascua5@yahoo.com.ar**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/anaascua/](https://www.linkedin.com/in/anaascua/)
-
-- ⚡ I'm a geek, passionate about food and horror movies
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anaascua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anaascua" height="30" width="40" /></a>
 </p>
@@ -32,7 +26,7 @@
 
 <!DOCTYPE html>
 
-  <h3 align="left">Languages and Tools I'm familiar with:</h3>
+  <h3 align="left">Skills</h3>
   <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
