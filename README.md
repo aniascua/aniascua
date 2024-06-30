@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/GxbWhN1/1.png)](https://aniascua.github.io/formulario-PHP/)
 
-<h1 align="center">Hi 👋, I'm Ana</h1>
-<p align="center">A passionate tech lover from Argentina 🇦🇷</p>
+<h1 align="left">Hi 👋, I'm Ana</h1>
+<p align="left">A passionate tech lover from Argentina 🇦🇷</p>
 <p align="center">https://ana-ascua-portfolio.000webhostapp.com/</p>
 
 - 🎓 Técnica Universitaria en Programación UTN
