@@ -4,9 +4,9 @@
 <p align="center">A passionate tech lover from Argentina</p>
 <p align="center">https://ana-ascua-portfolio.000webhostapp.com/</p>
 
-- 🎓 **Técnica Universitaria en Programación UTN**. +3 years of continuous university studies completed
+- 🎓 Técnica Universitaria en Programación UTN. +3 years of continuous university studies completed
 
-- 💻 Technology enthusiast and programming geek
+- 💻 Estudiando Tecnicatura Universitaria en Desarrollo Web en Universidad Nacional de Entre Ríos
   
 - 📄 Get to know about my experiences: [https://www.linkedin.com/in/anaascua/](https://www.linkedin.com/in/anaascua/)
 
