@@ -8,7 +8,7 @@
 
 - 💻 Estudiando Tecnicatura Universitaria en Desarrollo Web en la Universidad Nacional de Entre Ríos
   
-- 📄 Get to know about my experiences: [https://www.linkedin.com/in/anaascua/](https://www.linkedin.com/in/anaascua/)
+- 📄 LinkedIn: [https://www.linkedin.com/in/anaascua/](https://www.linkedin.com/in/anaascua/)
 
 - 🍎 EF SET English Certificate 67/100 (C1 Advanced): [https://www.efset.org/cert/aGe4aH](https://www.efset.org/cert/aGe4aH)
 
