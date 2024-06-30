@@ -12,10 +12,7 @@
 
 - 🍎 EF SET English Certificate 67/100 (C1 Advanced): [https://www.efset.org/cert/aGe4aH](https://www.efset.org/cert/aGe4aH)
 
-- ⚡ I'm passionate about cuisine and comedy movies
-
-- 🌱 Besides my university studies, I also learn on my own and grow personally
-
+- ⚡ Me encanta la tecnologia en todas sus formas, computadoras, smartphones, inteligencia artificial. Leo mucho sobre tecnología en mi día a día
 
 <h3 align="left">Contact</h3>
 <p align="left">
