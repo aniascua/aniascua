@@ -13,8 +13,8 @@
 
 - ⚡ Me encanta la tecnología en todas sus formas, computadoras, smartphones, IA. Me gusta trabajar en equipos 
 
-<h3 align="left">Página Web: In progress</h3>
-https://github.com/aniascua
+<h3 align="left">Página Web:</h3>
+https://aniascua.github.io/portfolio
 <p align="left">
 <a href="https://linkedin.com/in/anaascua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anaascua" height="30" width="40" /></a>
 </p>
