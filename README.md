@@ -1,7 +1,10 @@
 [![MasterHead](https://i.ibb.co/GxbWhN1/1.png)](https://aniascua.github.io/portfolio/)
 
 <h1 align="center">Hola! 👋 Soy ANA</h1>
-<p align="center">A passionate tech lover from Argentina 🇦🇷</p> <br>
+<p align="center">A passionate tech lover from Argentina 🇦🇷</p>
+
+<h3 align="left">Portfolio:</h3>
+https://aniascua.github.io/portfolio
 
 - 🎓 <b>TÉCNICA UNIVERSITARIA EN PROGRAMACIÓN UTN</b>
 
@@ -11,11 +14,8 @@
 
 - 🍎 EF SET English Certificate 67/100 (C1 Advanced): [https://www.efset.org/cert/aGe4aH](https://www.efset.org/cert/aGe4aH)
 
-- ⚡ Me encanta la tecnología en todas sus formas, computadoras, smartphones, IA. Me gusta trabajar en equipos 
+- ⚡ Me gusta trabajar en equipos y disfruto del aprendizaje constante 
 
-<h3 align="left">Página Web:</h3>
-https://aniascua.github.io/portfolio
-<br><br>
 <p align="left">
 <a href="https://linkedin.com/in/anaascua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anaascua" height="30" width="40" /></a>
 </p>
